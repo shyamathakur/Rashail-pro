@@ -37,13 +37,13 @@
     color: #007bff;
   }
   
-  .navbar-button {
+  .navbar-button-l{
     background: linear-gradient(90.62deg, #262564 4.66%, #1273b8 91.32%);
     color: white;
     border-radius: 5px;
     padding-inline: 3%;
     padding-block: 10px;
-    width: 140px;
+    width: 146px;
     border: none;
     cursor: pointer;
 }

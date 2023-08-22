@@ -136,7 +136,7 @@ function ProductDetails() {
                                     - <span className="gap"></span> 1 &nbsp; <span className="gap"> +</span>
                                 </button>
                                 <button type="button" className="navbar-button2">Remove</button>
-                                <button type="button" className="navbar-button">Go To Card</button>
+                                <button type="button" className="navbar-button-p">Go To Card</button>
                             </div>
                         </div>
                     </Col>

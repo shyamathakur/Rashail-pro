@@ -42,8 +42,8 @@ function App() {
                             <p>{product.product_description}</p>
                             <p className="price">${product.product_price}</p>
                             <div className='button-div-list' style={{ display:'flex',gap:'20px'}}>
-                                <button type="button" className="navbar-button">Add To Card</button>
-                                <button type="button" className="navbar-button">Buy Now</button>
+                                <button type="button" className="navbar-button-l">Add To Card</button>
+                                <button type="button" className="navbar-button-l">Buy Now</button>
                             </div>
                         </div>
                     </div>
