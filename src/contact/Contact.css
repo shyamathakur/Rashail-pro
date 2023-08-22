@@ -46,6 +46,22 @@
     transition: all 0.2s;
 }
 
+:where(.css-17a39f8).ant-input {
+    width: 335px;
+    height: 40px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    color: rgba(0, 0, 0, 0.88);
+    font-size: 14px;
+    line-height: 1.5714285714285714;
+    list-style: none;
+    position: relative;
+    display: inline-block;
+    background-color: #ffffff;
+    background-image: none;
+    border-radius: 6px;
+    transition: all 0.2s; 
+}
+
 :where(.css-dev-only-do-not-override-17a39f8).ant-form-vertical .ant-form-item-label>label,
 :where(.css-dev-only-do-not-override-17a39f8).ant-col-24.ant-form-item-label>label,
 :where(.css-dev-only-do-not-override-17a39f8).ant-col-xl-24.ant-form-item-label>label {
