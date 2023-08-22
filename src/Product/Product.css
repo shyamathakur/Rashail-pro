@@ -1,0 +1,53 @@
+.product-perent-div {
+    display: flex;
+    flex-direction: row;
+    margin-block-start: 150px;
+}
+
+.text {
+    text-decoration-line: line-through;
+}
+
+.navbar-button {
+    background: linear-gradient(90.62deg, #262564 4.66%, #1273b8 91.32%);
+    color: white;
+    border-radius: 5px;
+    padding-inline: 3%;
+    padding-block: 10px;
+    width: 140px;
+    border: none;
+    cursor: pointer;
+}
+
+.navbar-button2 {
+    background-color:  #fe2b12;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 5px;
+    padding-inline: 3%;
+    padding-block: 10px;
+    width: 140px;
+    border: none;
+    cursor: pointer;
+}
+
+.navbar-button3 {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 5px;
+    background-color: #fff;
+    padding-inline: 3%;
+    padding-block: 10px;
+    width: 140px;
+    border: none;
+    cursor: pointer;
+}
+
+.gap {
+    margin: 0 10px;
+    /* Adjust the margin value as needed */
+}
+
+.button-div-list {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
